@@ -24,7 +24,7 @@ $ npm install
 
 ## References
 
-- [Google]("http://google.com")
-- [Naver]("http://www.naver.com")
+- [Google](http://google.com)
+- [Naver](http://www.naver.com)
 
 $y=ax+b$
